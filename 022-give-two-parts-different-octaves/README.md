@@ -64,6 +64,6 @@ Record your completed exercise, then remove or reverse the device and compare at
 
 ## Attribution and historical context
 
-Adapted from Lesson 14 of Fabio Noronha, *Composing in the Born in the U.S.A. Idiom — An Advanced Guitar Method in 15 Lessons* (November 12, 2026), supplied by the author. All audio here is newly composed and synthesized. No Bruce Springsteen recording, lyric or melody is distributed. No affiliation is implied.
+Adapted from Lesson 14 of *Composing in the Born in the U.S.A. Idiom — An Advanced Guitar Method in 15 Lessons* (November 12, 2026), supplied by the author. All audio here is newly composed and synthesized. No Bruce Springsteen recording, lyric or melody is distributed. No affiliation is implied.
 
 [Springsteen’s official album page](https://brucespringsteen.net/albums/born-in-the-u-s-a/) confirms the album, 1984 release and track names. [Power Station’s own history](https://powerstation.nyc/about/) identifies its New York studio and Springsteen among the artists who recorded there. The intended Instagram pin is a verified New York City listing, described as a virtual studio-history study; it does not claim every album track was recorded at Power Station. The source book’s detailed recording dates, anecdotal history and song transcriptions are not independently asserted by this demonstration.
