@@ -7,8 +7,8 @@ Every published lesson has an original MP3 demonstration, editable MIDI and a pr
 | Lesson | What you will learn | Downloads |
 | --- | --- | --- |
 | [001 — One bass note. Three worlds.](001-one-bass-three-worlds/README.md) | Use a fixed E bass to move from minor to major to Lydian colour, then resolve A# to B. | [MP3](https://raw.githubusercontent.com/compositionhacked/lessons/main/001-one-bass-three-worlds/001-full-demonstration.mp3) · [MIDI](https://raw.githubusercontent.com/compositionhacked/lessons/main/001-one-bass-three-worlds/001-full-demonstration.mid) |
-
 | [002 — Three chords. One shared note.](002-smooth-chords-one-shared-note/README.md) | Connect E, C and C#m by holding E and moving the other voices by semitone. | [MP3](https://raw.githubusercontent.com/compositionhacked/lessons/main/002-smooth-chords-one-shared-note/002-demonstration.mp3) · [MIDI](https://raw.githubusercontent.com/compositionhacked/lessons/main/002-smooth-chords-one-shared-note/002-demonstration.mid) |
+| [003 — Can this groove lose its bass?](003-groove-without-bass/README.md) | Keep a D-minor center through repeated guitar anchors while removing the bass part. | [MP3](https://raw.githubusercontent.com/compositionhacked/lessons/main/003-groove-without-bass/003-demonstration.mp3) · [MIDI](https://raw.githubusercontent.com/compositionhacked/lessons/main/003-groove-without-bass/003-demonstration.mid) |
 
 ## How to use the files
 
