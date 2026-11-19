@@ -8,6 +8,8 @@ Every published lesson has an original MP3 demonstration, editable MIDI and a pr
 | --- | --- | --- |
 | [001 — One bass note. Three worlds.](001-one-bass-three-worlds/README.md) | Use a fixed E bass to move from minor to major to Lydian colour, then resolve A# to B. | [MP3](https://raw.githubusercontent.com/compositionhacked/lessons/main/001-one-bass-three-worlds/001-full-demonstration.mp3) · [MIDI](https://raw.githubusercontent.com/compositionhacked/lessons/main/001-one-bass-three-worlds/001-full-demonstration.mid) |
 
+| [002 — Three chords. One shared note.](002-smooth-chords-one-shared-note/README.md) | Connect E, C and C#m by holding E and moving the other voices by semitone. | [MP3](https://raw.githubusercontent.com/compositionhacked/lessons/main/002-smooth-chords-one-shared-note/002-demonstration.mp3) · [MIDI](https://raw.githubusercontent.com/compositionhacked/lessons/main/002-smooth-chords-one-shared-note/002-demonstration.mid) |
+
 ## How to use the files
 
 Listen to the MP3 first. Import the MIDI into Ableton Live or another DAW, assign your own instruments, and change one thing at a time. The musical information is in the MIDI; the exact sound depends on your instrument choices.
