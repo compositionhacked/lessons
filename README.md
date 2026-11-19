@@ -44,7 +44,7 @@ On mobile, open a download link and save the file. On a GitHub file page, use **
 
 ## Born in the U.S.A. — 15 lessons in seven days
 
-Adapted from Fabio Noronha’s composition method, inspired by Bruce Springsteen’s 1984 album. Original music and synthesized teaching audio. All practice packages below are available now; Instagram release plan: November 19–25, 2026.
+Adapted from our composition method, inspired by Bruce Springsteen’s 1984 album. Original music and synthesized teaching audio. All practice packages below are available now; Instagram release plan: November 19–25, 2026.
 
 | Lesson / writing device | MIDI and MP3 | Reel |
 | --- | --- | --- |
