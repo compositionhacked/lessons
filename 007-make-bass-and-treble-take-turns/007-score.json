@@ -1,0 +1,3143 @@
+{
+  "bpm": 120,
+  "meter": "4/4",
+  "duration": 48,
+  "events": [
+    {
+      "time": 0.0,
+      "duration": 0.255,
+      "note": 40,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 0.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 60
+    },
+    {
+      "time": 0.0,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 0.0,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 0.0,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 0.5,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 0.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 0.5,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 0.5,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 0.5,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 1.0,
+      "duration": 0.255,
+      "note": 49,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 1.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 1.0,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 1.0,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 1.0,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 1.5,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 1.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 1.5,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 1.5,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 1.5,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 2.0,
+      "duration": 0.255,
+      "note": 40,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 2.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 60
+    },
+    {
+      "time": 2.0,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 2.0,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 2.0,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 2.5,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 2.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 2.5,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 2.5,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 2.5,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 3.0,
+      "duration": 0.255,
+      "note": 49,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 3.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 3.0,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 3.0,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 3.0,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 3.5,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 3.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 3.5,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 3.5,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 3.5,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 4.0,
+      "duration": 0.255,
+      "note": 40,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 4.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 60
+    },
+    {
+      "time": 4.0,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 4.0,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 4.0,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 4.5,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 4.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 4.5,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 4.5,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 4.5,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 5.0,
+      "duration": 0.255,
+      "note": 49,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 5.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 5.0,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 5.0,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 5.0,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 5.5,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 5.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 5.5,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 5.5,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 5.5,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 6.0,
+      "duration": 0.255,
+      "note": 40,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 6.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 60
+    },
+    {
+      "time": 6.0,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 6.0,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 6.0,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 6.5,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 6.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 6.5,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 6.5,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 6.5,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 7.0,
+      "duration": 0.255,
+      "note": 49,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 7.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 7.0,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 7.0,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 7.0,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 7.5,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 7.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 7.5,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 7.5,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 7.5,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 8.0,
+      "duration": 0.255,
+      "note": 40,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 8.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 60
+    },
+    {
+      "time": 8.333333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 8.333333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 8.333333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 8.5,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 8.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 8.833333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 8.833333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 8.833333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 9.0,
+      "duration": 0.255,
+      "note": 49,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 9.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 9.333333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 9.333333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 9.333333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 9.5,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 9.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 9.833333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 9.833333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 9.833333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 10.0,
+      "duration": 0.255,
+      "note": 40,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 10.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 60
+    },
+    {
+      "time": 10.333333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 10.333333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 10.333333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 10.5,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 10.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 10.833333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 10.833333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 10.833333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 11.0,
+      "duration": 0.255,
+      "note": 49,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 11.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 11.333333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 11.333333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 11.333333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 11.5,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 11.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 11.833333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 11.833333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 11.833333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 12.0,
+      "duration": 0.255,
+      "note": 40,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 12.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 60
+    },
+    {
+      "time": 12.333333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 12.333333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 12.333333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 12.5,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 12.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 12.833333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 12.833333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 12.833333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 13.0,
+      "duration": 0.255,
+      "note": 49,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 13.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 13.333333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 13.333333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 13.333333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 13.5,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 13.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 13.833333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 13.833333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 13.833333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 14.0,
+      "duration": 0.255,
+      "note": 40,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 14.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 60
+    },
+    {
+      "time": 14.333333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 14.333333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 14.333333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 14.5,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 14.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 14.833333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 14.833333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 14.833333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 15.0,
+      "duration": 0.255,
+      "note": 49,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 15.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 15.333333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 15.333333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 15.333333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 15.5,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 15.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 15.833333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 15.833333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 15.833333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 16.0,
+      "duration": 0.255,
+      "note": 40,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 16.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 60
+    },
+    {
+      "time": 16.5,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 16.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 17.0,
+      "duration": 0.255,
+      "note": 49,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 17.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 17.5,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 17.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 18.0,
+      "duration": 0.255,
+      "note": 40,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 18.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 60
+    },
+    {
+      "time": 18.5,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 18.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 19.0,
+      "duration": 0.255,
+      "note": 49,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 19.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 19.5,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 19.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 20.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 60
+    },
+    {
+      "time": 20.333333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 20.333333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 20.333333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 20.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 20.833333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 20.833333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 20.833333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 21.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 21.333333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 21.333333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 21.333333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 21.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 21.833333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 21.833333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 21.833333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 22.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 60
+    },
+    {
+      "time": 22.333333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 22.333333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 22.333333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 22.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 22.833333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 22.833333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 22.833333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 23.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 23.333333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 23.333333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 23.333333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 23.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 23.833333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 23.833333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 23.833333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 24.0,
+      "duration": 0.255,
+      "note": 40,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 24.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 60
+    },
+    {
+      "time": 24.333333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 24.333333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 24.333333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 24.5,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 24.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 24.833333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 24.833333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 24.833333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 25.0,
+      "duration": 0.255,
+      "note": 49,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 25.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 25.333333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 25.333333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 25.333333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 25.5,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 25.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 25.833333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 25.833333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 25.833333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 26.0,
+      "duration": 0.255,
+      "note": 40,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 26.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 60
+    },
+    {
+      "time": 26.333333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 26.333333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 26.333333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 26.5,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 26.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 26.833333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 26.833333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 26.833333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 27.0,
+      "duration": 0.255,
+      "note": 49,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 27.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 27.333333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 27.333333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 27.333333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 27.5,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 27.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 27.833333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 27.833333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 27.833333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 28.0,
+      "duration": 0.255,
+      "note": 45,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 28.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 60
+    },
+    {
+      "time": 28.333333,
+      "duration": 0.12,
+      "note": 55,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 28.333333,
+      "duration": 0.12,
+      "note": 61,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 28.333333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 28.5,
+      "duration": 0.255,
+      "note": 52,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 28.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 28.833333,
+      "duration": 0.12,
+      "note": 55,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 28.833333,
+      "duration": 0.12,
+      "note": 61,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 28.833333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 29.0,
+      "duration": 0.255,
+      "note": 54,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 29.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 29.333333,
+      "duration": 0.12,
+      "note": 55,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 29.333333,
+      "duration": 0.12,
+      "note": 61,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 29.333333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 29.5,
+      "duration": 0.255,
+      "note": 52,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 29.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 29.833333,
+      "duration": 0.12,
+      "note": 55,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 29.833333,
+      "duration": 0.12,
+      "note": 61,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 29.833333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 30.0,
+      "duration": 0.255,
+      "note": 45,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 30.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 60
+    },
+    {
+      "time": 30.333333,
+      "duration": 0.12,
+      "note": 55,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 30.333333,
+      "duration": 0.12,
+      "note": 61,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 30.333333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 30.5,
+      "duration": 0.255,
+      "note": 52,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 30.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 30.833333,
+      "duration": 0.12,
+      "note": 55,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 30.833333,
+      "duration": 0.12,
+      "note": 61,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 30.833333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 31.0,
+      "duration": 0.255,
+      "note": 54,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 31.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 31.333333,
+      "duration": 0.12,
+      "note": 55,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 31.333333,
+      "duration": 0.12,
+      "note": 61,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 31.333333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 31.5,
+      "duration": 0.255,
+      "note": 52,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 31.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 31.833333,
+      "duration": 0.12,
+      "note": 55,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 31.833333,
+      "duration": 0.12,
+      "note": 61,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 31.833333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 32.0,
+      "duration": 0.255,
+      "note": 40,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 32.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 60
+    },
+    {
+      "time": 32.0,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 32.0,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 32.0,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 32.5,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 32.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 32.5,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 32.5,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 32.5,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 33.0,
+      "duration": 0.255,
+      "note": 49,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 33.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 33.0,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 33.0,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 33.0,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 33.5,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 33.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 33.5,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 33.5,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 33.5,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 34.0,
+      "duration": 0.255,
+      "note": 40,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 34.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 60
+    },
+    {
+      "time": 34.0,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 34.0,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 34.0,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 34.5,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 34.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 34.5,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 34.5,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 34.5,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 35.0,
+      "duration": 0.255,
+      "note": 49,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 35.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 35.0,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 35.0,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 35.0,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 35.5,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 35.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 35.5,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 35.5,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 35.5,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 36.0,
+      "duration": 0.255,
+      "note": 40,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 36.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 60
+    },
+    {
+      "time": 36.333333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 36.333333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 36.333333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 36.5,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 36.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 36.833333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 36.833333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 36.833333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 37.0,
+      "duration": 0.255,
+      "note": 49,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 37.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 37.333333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 37.333333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 37.333333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 37.5,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 37.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 37.833333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 37.833333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 37.833333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 38.0,
+      "duration": 0.255,
+      "note": 40,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 38.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 60
+    },
+    {
+      "time": 38.333333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 38.333333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 38.333333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 38.5,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 38.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 38.833333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 38.833333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 38.833333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 39.0,
+      "duration": 0.255,
+      "note": 49,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 39.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 39.333333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 39.333333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 39.333333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 39.5,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 39.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 39.833333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 39.833333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 39.833333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 40.0,
+      "duration": 0.255,
+      "note": 40,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 40.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 60
+    },
+    {
+      "time": 40.333333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 40.333333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 40.333333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 40.5,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 40.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 40.833333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 40.833333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 40.833333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 41.0,
+      "duration": 0.255,
+      "note": 49,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 41.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 41.333333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 41.333333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 41.333333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 41.5,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 41.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 41.833333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 41.833333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 41.833333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 42.0,
+      "duration": 0.255,
+      "note": 45,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 42.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 60
+    },
+    {
+      "time": 42.333333,
+      "duration": 0.12,
+      "note": 55,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 42.333333,
+      "duration": 0.12,
+      "note": 61,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 42.333333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 42.5,
+      "duration": 0.255,
+      "note": 52,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 42.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 42.833333,
+      "duration": 0.12,
+      "note": 55,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 42.833333,
+      "duration": 0.12,
+      "note": 61,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 42.833333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 43.0,
+      "duration": 0.255,
+      "note": 54,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 43.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 43.333333,
+      "duration": 0.12,
+      "note": 55,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 43.333333,
+      "duration": 0.12,
+      "note": 61,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 43.333333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 43.5,
+      "duration": 0.255,
+      "note": 52,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 43.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 43.833333,
+      "duration": 0.12,
+      "note": 55,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 43.833333,
+      "duration": 0.12,
+      "note": 61,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 43.833333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 44.0,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 44.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 60
+    },
+    {
+      "time": 44.333333,
+      "duration": 0.12,
+      "note": 57,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 44.333333,
+      "duration": 0.12,
+      "note": 63,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 44.333333,
+      "duration": 0.12,
+      "note": 66,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 44.5,
+      "duration": 0.255,
+      "note": 54,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 44.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 44.833333,
+      "duration": 0.12,
+      "note": 57,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 44.833333,
+      "duration": 0.12,
+      "note": 63,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 44.833333,
+      "duration": 0.12,
+      "note": 66,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 45.0,
+      "duration": 0.255,
+      "note": 56,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 45.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 45.333333,
+      "duration": 0.12,
+      "note": 57,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 45.333333,
+      "duration": 0.12,
+      "note": 63,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 45.333333,
+      "duration": 0.12,
+      "note": 66,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 45.5,
+      "duration": 0.255,
+      "note": 54,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 45.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 45.833333,
+      "duration": 0.12,
+      "note": 57,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 45.833333,
+      "duration": 0.12,
+      "note": 63,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 45.833333,
+      "duration": 0.12,
+      "note": 66,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 46.0,
+      "duration": 0.255,
+      "note": 40,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 46.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 60
+    },
+    {
+      "time": 46.333333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 46.333333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 46.333333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 46.5,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 46.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 46.833333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 46.833333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 46.833333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 47.0,
+      "duration": 0.255,
+      "note": 49,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 47.0,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 47.333333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 47.333333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 47.333333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 47.5,
+      "duration": 0.255,
+      "note": 47,
+      "track": "bass",
+      "velocity": 94
+    },
+    {
+      "time": 47.5,
+      "duration": 0.055,
+      "note": 42,
+      "track": "pulse",
+      "velocity": 48
+    },
+    {
+      "time": 47.833333,
+      "duration": 0.12,
+      "note": 56,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 47.833333,
+      "duration": 0.12,
+      "note": 62,
+      "track": "treble",
+      "velocity": 80
+    },
+    {
+      "time": 47.833333,
+      "duration": 0.12,
+      "note": 64,
+      "track": "treble",
+      "velocity": 80
+    }
+  ]
+}
