@@ -11,6 +11,7 @@ Every published lesson has an original MP3 demonstration, editable MIDI and a pr
 | [003 — Can this groove lose its bass?](003-groove-without-bass/README.md) | Keep a D-minor center through repeated guitar anchors while removing the bass part. | [MP3](https://raw.githubusercontent.com/compositionhacked/lessons/main/003-groove-without-bass/003-demonstration.mp3) · [MIDI](https://raw.githubusercontent.com/compositionhacked/lessons/main/003-groove-without-bass/003-demonstration.mid) |
 | [004 — Make the rest repeat](004-make-the-rest-repeat/README.md) | Compose a repeatable guitar rest while bass and pulse continue. | [MP3](https://raw.githubusercontent.com/compositionhacked/lessons/main/004-make-the-rest-repeat/004-demonstration.mp3) · [MIDI](https://raw.githubusercontent.com/compositionhacked/lessons/main/004-make-the-rest-repeat/004-demonstration.mid) |
 | [005 — Enclose the chord tone](005-enclose-the-chord-tone/README.md) | Approach each chord third from a semitone below and above, then resolve. | [MP3](https://raw.githubusercontent.com/compositionhacked/lessons/main/005-enclose-the-chord-tone/005-demonstration.mp3) · [MIDI](https://raw.githubusercontent.com/compositionhacked/lessons/main/005-enclose-the-chord-tone/005-demonstration.mid) |
+| [006 — Lift the octave. Save the solo.](006-lift-the-octave-before-the-solo/README.md) | Move an eight-note motif up an octave before introducing a new lead line. | [MP3](https://raw.githubusercontent.com/compositionhacked/lessons/main/006-lift-the-octave-before-the-solo/006-demonstration.mp3) · [MIDI](https://raw.githubusercontent.com/compositionhacked/lessons/main/006-lift-the-octave-before-the-solo/006-demonstration.mid) |
 
 ## How to use the files
 
@@ -23,4 +24,5 @@ On mobile, open a download link and save the file. On a GitHub file page, use **
 [Instagram: @compositionhacked](https://www.instagram.com/compositionhacked/)
 
 [Publishing standard for future lessons](PUBLISHING_STANDARD.md)
+
 
