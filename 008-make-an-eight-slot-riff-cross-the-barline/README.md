@@ -37,7 +37,7 @@ Listen before opening the MIDI. Import the Standard MIDI File with its 120 BPM t
 
 ## Source and context
 
-Adapted from Lesson 2 of Fabio Noronha, *Texas Flood as a Composition Method: 15 Lessons for Advanced Guitarists* (Nov 1, 2026), from the user's SRV composition-study folder. This is a newly written teaching example applying the source's rule. It is not a claim to reproduce Vaughan's part or conscious theory. The album's half-step-down fingering convention is not applied to this concert-pitch demonstration.
+Adapted from Lesson 2 of *Texas Flood as a Composition Method: 15 Lessons for Advanced Guitarists* (Nov 1, 2026), from the user's SRV composition-study folder. This is a newly written teaching example applying the source's rule. It is not a claim to reproduce Vaughan's part or conscious theory. The album's half-step-down fingering convention is not applied to this concert-pitch demonstration.
 
 Virtual music-history study: Austin, Texas. [SRV's official biography](https://www.srvofficial.com/biography/) documents his career there. This is artist context; it does not claim Texas Flood was recorded in Austin. The [official album anniversary announcement](https://www.srvofficial.com/news/texas-flood-30th-anniversary-legacy-edition-coming-january-29th/) supplies album context.
 
