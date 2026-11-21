@@ -109,3 +109,10 @@ Six original synthesized teaching examples inspired by our analysis of Steve Vai
 | [037 — Write Phrygian over an E pedal](037-phrygian-pedal/README.md) | [MIDI](https://raw.githubusercontent.com/compositionhacked/lessons/main/037-phrygian-pedal/037-demonstration.mid) · [MP3](https://raw.githubusercontent.com/compositionhacked/lessons/main/037-phrygian-pedal/037-demonstration.mp3) | [MP4](https://raw.githubusercontent.com/compositionhacked/lessons/main/037-phrygian-pedal/037-reel.mp4) |
 | [038 — Let the lead turn v into V](038-lead-supplies-dominant-third/README.md) | [MIDI](https://raw.githubusercontent.com/compositionhacked/lessons/main/038-lead-supplies-dominant-third/038-demonstration.mid) · [MP3](https://raw.githubusercontent.com/compositionhacked/lessons/main/038-lead-supplies-dominant-third/038-demonstration.mp3) | [MP4](https://raw.githubusercontent.com/compositionhacked/lessons/main/038-lead-supplies-dominant-third/038-reel.mp4) |
 | [039 — Borrow ♭VII without losing the tonic](039-mixolydian-bvii/README.md) | [MIDI](https://raw.githubusercontent.com/compositionhacked/lessons/main/039-mixolydian-bvii/039-demonstration.mid) · [MP3](https://raw.githubusercontent.com/compositionhacked/lessons/main/039-mixolydian-bvii/039-demonstration.mp3) | [MP4](https://raw.githubusercontent.com/compositionhacked/lessons/main/039-mixolydian-bvii/039-reel.mp4) |
+
+
+## Communiqué — continued
+
+| Lesson | Downloads | Reel |
+| --- | --- | --- |
+| [049 — Put the dyad between the beats](049-put-the-dyad-between-the-beats/README.md) | [MIDI](https://raw.githubusercontent.com/compositionhacked/lessons/main/049-put-the-dyad-between-the-beats/049-demonstration.mid) · [MP3](https://raw.githubusercontent.com/compositionhacked/lessons/main/049-put-the-dyad-between-the-beats/049-demonstration.mp3) | [MP4](https://raw.githubusercontent.com/compositionhacked/lessons/main/049-put-the-dyad-between-the-beats/049-reel.mp4) |
