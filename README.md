@@ -116,3 +116,5 @@ Six original synthesized teaching examples inspired by our analysis of Steve Vai
 | Lesson | Downloads | Reel |
 | --- | --- | --- |
 | [049 — Put the dyad between the beats](049-put-the-dyad-between-the-beats/README.md) | [MIDI](https://raw.githubusercontent.com/compositionhacked/lessons/main/049-put-the-dyad-between-the-beats/049-demonstration.mid) · [MP3](https://raw.githubusercontent.com/compositionhacked/lessons/main/049-put-the-dyad-between-the-beats/049-demonstration.mp3) | [MP4](https://raw.githubusercontent.com/compositionhacked/lessons/main/049-put-the-dyad-between-the-beats/049-reel.mp4) |
+
+| [050 — Keep the rhythm. Change the target.](050-keep-the-rhythm-change-the-target/README.md) | [MIDI](https://raw.githubusercontent.com/compositionhacked/lessons/main/050-keep-the-rhythm-change-the-target/050-demonstration.mid) · [MP3](https://raw.githubusercontent.com/compositionhacked/lessons/main/050-keep-the-rhythm-change-the-target/050-demonstration.mp3) | [MP4](https://raw.githubusercontent.com/compositionhacked/lessons/main/050-keep-the-rhythm-change-the-target/050-reel.mp4) |
