@@ -1,0 +1,22 @@
+Lesson 051 | Let sixths change size.
+
+Virtual studio study: Communiqué and Compass Point, Nassau. Music-history context, not a visit.
+
+MIDI, MP3 and writing exercise:
+https://github.com/compositionhacked/lessons/tree/main/051-let-sixths-change-size
+
+Hear A: every pair spans a major sixth. Then B: the same upper melody, harmonized inside D major. Rhythm, durations, accents, timbre, bass and backing stay fixed. Only the lower voice changes.
+
+Over D: D4–B4 and E4–C♯5 are major sixths, nine semitones wide. F♯4–D5 is a minor sixth, eight semitones. Keeping that last span at nine would give F4–D5, putting F-natural against the backing’s F♯. A fixed shape can choose a chromatic note without your ear choosing it.
+
+The loop is D | G | Em7 | A7, at 100 BPM. The bass changes D2–G2–E2–A2; it is not a pedal. Hear both upper voices against each root. Keep the beat-3 gap, plus the final-beat release on A7.
+
+Guitar, standard tuning: use G and high E, muting B. Over D, fret pairs G/e are 7/7, 9/9, 11/10, 9/9, 7/7. The major-sixth control uses 10/10 instead of 11/10 at the high point.
+
+Write: harmonize the same eight-note melody in thirds, sixths and a mixture. Keep bass and rhythm identical. Choose by register and phrase shape. Then try one held lower note or a single-note cadence.
+
+From Lesson 6 and bars 1–4 of the method’s original etude “Two Voices Walking,” with “Angel of Mercy” as listening context. This is a four-bar A/B teaching demonstration, not the complete eight-bar study or a song transcription. Original synthesized audio; no Dire Straits recording or performance.
+
+Try the two versions before choosing your fingering.
+
+#CompositionHacked #MusicComposition #GuitarLesson #DireStraits #Communique
